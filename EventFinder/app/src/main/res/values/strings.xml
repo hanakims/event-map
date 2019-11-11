@@ -2,4 +2,5 @@
     <string name="app_name">EventFinder</string>
     <string name="facebook_app_id">426060414962373</string>
     <string name="fb_login_protocol_scheme">fb426060414962373</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
